@@ -13,4 +13,4 @@
 </p>
 <br>
 Not the best implementation of a cellular automaton in C#
-<img alt="Preview" src='https://github.com/kirk1448/MonoGame_Sandbox/blob/main/gif0.gif' height="250">
+<img alt="Preview" src='https://github.com/kirk1448/MonoGame_Sandbox/blob/main/.github/gif0.gif' height="250">
