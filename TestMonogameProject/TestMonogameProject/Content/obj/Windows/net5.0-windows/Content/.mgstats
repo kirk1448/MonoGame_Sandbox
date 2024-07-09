@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/VSprojects/TestMonogameProject/TestMonogameProject/Content/ball.png","D:/VSprojects/TestMonogameProject/TestMonogameProject/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",78,121,0,2135276

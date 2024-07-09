@@ -1,0 +1,5 @@
+D:\VSprojects\TestMonogameProject\TestMonogameProject\obj\Release\net5.0-windows\TestMonogameProject.csproj.AssemblyReference.cache
+D:\VSprojects\TestMonogameProject\TestMonogameProject\obj\Release\net5.0-windows\TestMonogameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSprojects\TestMonogameProject\TestMonogameProject\obj\Release\net5.0-windows\TestMonogameProject.AssemblyInfoInputs.cache
+D:\VSprojects\TestMonogameProject\TestMonogameProject\obj\Release\net5.0-windows\TestMonogameProject.AssemblyInfo.cs
+D:\VSprojects\TestMonogameProject\TestMonogameProject\obj\Release\net5.0-windows\TestMonogameProject.csproj.CoreCompileInputs.cache
